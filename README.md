@@ -6,15 +6,3 @@ This project is an interactive web application built with Streamlit that provide
 
 The goal of this project is to provide a data-driven tool for understanding global health disparities and for informing policy decisions aimed at reducing child mortality in developing regions.
 
-
-🤝 **Team**
-
-Jiya Chachan
-
-Smeet Patel
-
-Ji Eun Kim
-
-Miloni Shah
-
-Chenzhao Wang
